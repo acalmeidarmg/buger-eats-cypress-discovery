@@ -1,0 +1,71 @@
+{
+    "signup":{
+        "name": "Ana Carolina",
+        "cpf": "93774940010",
+        "email": "cajiv79300@nahetech.com",
+        "whastapp": "64996474879",
+        "address": {
+          "postalcode": "72897900",
+          "street": "Alameda Mamoré",
+          "number": "C02",
+          "details": "Apt 2004",
+          "district": "Alphaville Brasília",
+          "city_state": "Cidade Ocidental/GO"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv":{
+        "name": "Ana Carolina",
+        "cpf": "937749400XX",
+        "email": "cajiv79300@nahetech.com",
+        "whastapp": "64996474879",
+        "address": {
+          "postalcode": "72897900",
+          "street": "Alameda Mamoré",
+          "number": "C02",
+          "details": "Apt 2004",
+          "district": "Alphaville Brasília",
+          "city_state": "Cidade Ocidental/GO"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+
+    "nome_inv":{
+        "name": "  ",
+        "cpf": "93774940010",
+        "email": "cajiv79300@nahetech.com",
+        "whastapp": "64996474879",
+        "address": {
+          "postalcode": "72897900",
+          "street": "Alameda Mamoré",
+          "number": "C02",
+          "details": "Apt 2004",
+          "district": "Alphaville Brasília",
+          "city_state": "Cidade Ocidental/GO"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+    "email_inv":{
+        "name": "Ana Carolina",
+        "cpf": "93774940010",
+        "email": "abc.com.br",
+        "whastapp": "64996474879",
+        "address": {
+          "postalcode": "72897900",
+          "street": "Alameda Mamoré",
+          "number": "C02",
+          "details": "Apt 2004",
+          "district": "Alphaville Brasília",
+          "city_state": "Cidade Ocidental/GO"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
+
